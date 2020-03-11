@@ -1,0 +1,10 @@
+CREATE TABLE "firma" (
+	"id"	INTEGER PRIMARY KEY AUTOINCREMENT,
+	"firma_ismi"	TEXT,
+	"adres"	TEXT,
+	"yetkili"	TEXT,
+	"telefon"	TEXT
+)|
+id|firma_ismi|adres|yetkili|telefon|
+1|DENEME|ISTANBUL VATAN SARIYER|EGEHAN|5523234|
+

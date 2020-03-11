@@ -1,0 +1,12 @@
+CREATE TABLE "kisiler" (
+	"id"	INTEGER PRIMARY KEY AUTOINCREMENT,
+	"isim"	TEXT,
+	"soyisim"	TEXT,
+	"telefon"	TEXT,
+	"tur"	TEXT,
+	"miktar"	NUMERIC
+)|
+id|isim|soyisim|telefon|tur|miktar|
+1|EFE|ORTA|5555555555|ALACAKLI|100|
+2|DENEME|DENEME|1234123|VERECEKLI|1000|
+
